@@ -22,8 +22,11 @@ This is a CRUD (Create, Read, Update, Delete) application built with Spring Boot
 Features
 
 Add a new employee
+
 View a list of employees
+
 Update employee details
+
 Delete an employee
 
 Fundamentals

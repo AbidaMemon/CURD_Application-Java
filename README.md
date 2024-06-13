@@ -1,3 +1,7 @@
+# Description
+
+This is a CRUD (Create, Read, Update, Delete) application built with Spring Boot and Java. The application allows you to manage employee records, including their ID, first name, last name, email, department, and salary.
+
 # Setup CRUD Application
 
 First, install VS Code and the required extensions (JDK). Then, go to Spring Initializr and add the following dependencies:
@@ -15,10 +19,6 @@ After setting up the dependencies, open the project in VS Code. Connect MySQL Wo
 - `controller` folder: add `EmployeeController.java`
 
 Then, go to the `resources/application.properties` file and add the MySQL connection details. Finally, go to the `templates` folder and add your HTML files.
-
-# Description
-
-This is a CRUD (Create, Read, Update, Delete) application built with Spring Boot and Java. The application allows you to manage employee records, including their ID, first name, last name, email, department, and salary.
 
 # Features
 

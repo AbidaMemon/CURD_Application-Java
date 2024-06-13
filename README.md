@@ -40,7 +40,16 @@ Visual Studio Code (VS Code)
 
 MySQL Workbench
 
-(![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/add.png)
- "Add" Employee of the CRUD application.
+![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/registration.png)
+"Registration" functionality show that registration page user register than open  CRUD application.
+ ![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/curdoperation.png)
+ "edit" functionality  show that edit employee data in  the CRUD application.
+ 
+
+![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/add.png)
+"Add" functionality show that add employee in the CRUD application.
+
+![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/edit.png)"edit" functionality  show that edit employee data in  the CRUD application.
+
 
 

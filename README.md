@@ -3,10 +3,15 @@
 First install Vs code and required extension jdk and go to spring initializer add dependencies 
 
 Thymleaf
+
 H2 in memory database
+
 mysql server
+
 spring wb
+
 jpa
+
  
  
  than open code Vs code and. Connect MYSQL work bench Vs code crud application connect than create model folder in crudapplication than add file employee.java, repository folder add file EmployeeRepository, controller folder add file EmployeeController than go to resource application properties add MYSQL path so on go to template folder add HTML files
@@ -35,6 +40,6 @@ Visual Studio Code (VS Code)
 
 MySQL Workbench
 
-![Alt text](https://github.com/your-username/your-repository/blob/main/path/to/image.png)
+(![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/add.png)
 
 

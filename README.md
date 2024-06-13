@@ -37,13 +37,18 @@ This is a CRUD (Create, Read, Update, Delete) application built with Spring Boot
 ## Screenshots
 
 ![Registration Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/registration.png)
-**Registration** functionality shows the registration page where the user can register before accessing the CRUD application.
+
+**Registration** functionality shows  that the registration page where the user can register before accessing the CRUD application.
 
 ![CRUD Operation](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/curd%20operation.png)
-**Edit** functionality shows the edit employee data in the CRUD application.
+
+
+**Edit** functionality shows  that the edit employee data in the CRUD application.
 
 ![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/add.png)
-**Add** functionality shows the addition of an employee in the CRUD application.
+
+**Add** functionality shows that  the addition of an employee in the CRUD application.
 
 ![Edit Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/edit.png)
-**Edit** functionality shows the edit employee data in the CRUD application.
+
+**Edit** functionality shows that  the edit employee data in the CRUD application.

@@ -1,56 +1,49 @@
-# Setup crud application 
+# Setup CRUD Application
 
-First install Vs code and required extension jdk and go to spring initializer add dependencies 
+First, install VS Code and the required extensions (JDK). Then, go to Spring Initializr and add the following dependencies:
 
-Thymleaf
+- Thymeleaf
+- H2 in-memory database
+- MySQL Server
+- Spring Web
+- JPA
 
-H2 in memory database
+After setting up the dependencies, open the project in VS Code. Connect MySQL Workbench to the CRUD application. Next, create the following folders and files:
 
-mysql server
+- `model` folder: add `Employee.java`
+- `repository` folder: add `EmployeeRepository.java`
+- `controller` folder: add `EmployeeController.java`
 
-spring wb
-
-jpa
-
- 
- 
- than open code Vs code and. Connect MYSQL work bench Vs code crud application connect than create model folder in crudapplication than add file employee.java, repository folder add file EmployeeRepository, controller folder add file EmployeeController than go to resource application properties add MYSQL path so on go to template folder add HTML files
+Then, go to the `resources/application.properties` file and add the MySQL connection details. Finally, go to the `templates` folder and add your HTML files.
 
 # Description
 
-This is a CRUD (Create, Read, Update, Delete) application built with Spring Boot and Java. The application allows you to manage employee records, including their id, first name, last name, email, department, and salary.
+This is a CRUD (Create, Read, Update, Delete) application built with Spring Boot and Java. The application allows you to manage employee records, including their ID, first name, last name, email, department, and salary.
 
 # Features
 
-Add a new employee
-
-View a list of employees
-
-Update employee details
-
-Delete an employee
+- Add a new employee
+- View a list of employees
+- Update employee details
+- Delete an employee
 
 # Fundamentals
 
-Java Development Kit (JDK) 17 
+- Java Development Kit (JDK) 17
+- Apache Maven
+- Visual Studio Code (VS Code)
+- MySQL Workbench
 
-Apache Maven
+## Screenshots
 
-Visual Studio Code (VS Code)
+![Registration Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/registration.png)
+**Registration** functionality shows the registration page where the user can register before accessing the CRUD application.
 
-MySQL Workbench
+![CRUD Operation](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/curd%20operation.png)
+**Edit** functionality shows the edit employee data in the CRUD application.
 
-![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/registration.png)
-"Registration" functionality show that registration page user register than open  CRUD application.
+![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/add.png)
+**Add** functionality shows the addition of an employee in the CRUD application.
 
- ![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/curd%20operation.png).
- "edit" functionality  show that edit employee data in  the CRUD application.
- 
-
-! [Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/add.png)
-"Add" functionality show that add employee in the CRUD application.
-
-![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/edit.png)"edit" functionality  show that edit employee data in  the CRUD application.
-
-
-
+![Edit Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/edit.png)
+**Edit** functionality shows the edit employee data in the CRUD application.

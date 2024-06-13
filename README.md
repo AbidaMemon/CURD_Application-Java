@@ -41,5 +41,6 @@ Visual Studio Code (VS Code)
 MySQL Workbench
 
 (![Add Functionality](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/add.png)
+ "Add" Employee of the CRUD application.
 
 

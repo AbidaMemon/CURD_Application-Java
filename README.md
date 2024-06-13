@@ -28,8 +28,11 @@ Delete an employee
 
 Fundamentals
 
-Java Development Kit (JDK) 17 or higher
+Java Development Kit (JDK) 17 
+
 Apache Maven
+
 Visual Studio Code (VS Code)
+
 MySQL Workbench
 

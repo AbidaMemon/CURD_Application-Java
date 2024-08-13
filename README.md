@@ -36,7 +36,7 @@ Then, go to the `resources/application.properties` file and add the MySQL connec
 
 ## Screenshots
 
-![Registration Functionality]("C:\Users\abada\Downloads\CRUDproject screenshot\add.png")
+![Registration Functionality]("https://github.com/AbidaMemon/CURD_Application-Java/blob/main/C:\Users\abada\Downloads\CRUDproject screenshot\add.png")
 
 **Registration** functionality shows  that the registration page where the user can register before accessing the CRUD application.
 

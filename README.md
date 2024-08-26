@@ -36,7 +36,8 @@ Then, go to the `resources/application.properties` file and add the MySQL connec
 
 ## Screenshots
 
-![Registration Screenshot](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject%20screenshot/curd%20registration.png)
+![Registration Screenshot](https://github.com/AbidaMemon/CURD_Application-Java/blob/main/CRUDproject_screenshot/curd_registration.png)
+
 
 
 
